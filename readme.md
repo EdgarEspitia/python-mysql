@@ -20,6 +20,7 @@ In most of GNU/Linux systems python is installed by default. In this small guide
 At first is necesary check the version of python and mySQL
 
 > python --version
+
 > mysql --version
 
 In order to know what version of the mySQL we need the next table would help:
